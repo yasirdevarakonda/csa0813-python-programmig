@@ -1,0 +1,5 @@
+l=int(input())
+b=int(input())
+h=int(input())
+cubiod=2*(l*b+b*h+h*l)
+print(cubiod)
